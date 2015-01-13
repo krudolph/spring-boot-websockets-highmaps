@@ -1,2 +1,5 @@
 # spring-boot-websockets-highmaps
-highmaps updated via websockets
+
+    $ mvn package && java -jar target/*.jar
+
+Go to http://localhost:8080/index.html
